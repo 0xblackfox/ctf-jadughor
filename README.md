@@ -61,12 +61,19 @@ Capture The Flag (CTF) tools and other stuff
 </li>
 </ul>
 <h2>Platforms to practice</h2>
-<li><p>CTF-Time: <a rel="noopener noreferrer" href="https://ctftime.org"/>https://ctftime.org/</a></p></li>
-<li><p>Hackthebox: <a rel="noopener noreferrer"href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a></p></li>
-<li><p>Tryhackme: <a rel="noopener noreferrer" href="https://tryhackme.com/">https://tryhackme.com/</a></p></li>
-<li><p>CN-Cert: <a rel="noopener noreferrer" href="https://atenea.ccn-cert.cni.es/home">https://atenea.ccn-cert.cni.es/home</a></p></li>
-<p><a rel="noopener noreferrer" href="https://atenea.ccn-cert.cni.es/home">https://atenea.ccn-cert.cni.es/home</a></p>
 <ul>
+<li>
+<p>CTF-Time: <a rel="noopener noreferrer" href="https://ctftime.org"/>https://ctftime.org/</a></p>
+</li>
+<li>
+<p>Hackthebox: <a rel="noopener noreferrer"href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a></p>
+</li>
+<li>
+<p>Tryhackme: <a rel="noopener noreferrer" href="https://tryhackme.com/">https://tryhackme.com/</a></p>
+</li>
+<li>
+<p>CN-Cert: <a rel="noopener noreferrer" href="https://atenea.ccn-cert.cni.es/home">https://atenea.ccn-cert.cni.es/home</a></p>
+</li>
 <li>
 <p>Hacking challenges for web: <a rel="noopener noreferrer" href="http://webhacking.kr/">http://webhacking.kr/</a></p>
 </li>

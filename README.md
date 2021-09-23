@@ -1059,16 +1059,5 @@ Capture The Flag (CTF) tools and other stuff
 <p><a rel="noopener noreferrer" href="https://github.com/zardus/ctf-tools">https://github.com/zardus/ctf-tools</a></p>
 <p><a rel="noopener noreferrer" href="https://github.com/apsdehal/awesome-ctf">https://github.com/apsdehal/awesome-ctf</a></p>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
 
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>

@@ -61,8 +61,10 @@ Capture The Flag (CTF) tools and other stuff
 </li>
 </ul>
 <h2>Platforms to practice</h2>
-<p><a rel="noopener noreferrer" href="https://ctftime.org/">https://ctftime.org/</a></p>
-<p><a rel="noopener noreferrer" href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a></p>
+<li><p>CTF-Time: <a rel="noopener noreferrer" href="https://ctftime.org"/>https://ctftime.org/</a></p></li>
+<li><p>Hackthebox: <a rel="noopener noreferrer"href="https://www.hackthebox.eu/">https://www.hackthebox.eu/</a></p></li>
+<li><p>Tryhackme: <a rel="noopener noreferrer" href="https://tryhackme.com/">https://tryhackme.com/</a></p></li>
+<li><p>CN-Cert: <a rel="noopener noreferrer" href="https://atenea.ccn-cert.cni.es/home">https://atenea.ccn-cert.cni.es/home</a></p></li>
 <p><a rel="noopener noreferrer" href="https://atenea.ccn-cert.cni.es/home">https://atenea.ccn-cert.cni.es/home</a></p>
 <ul>
 <li>
@@ -376,7 +378,7 @@ Capture The Flag (CTF) tools and other stuff
 <p>Leaks: <a rel="noopener noreferrer" href="https://leaks.sh/">https://leaks.sh/</a></p>
 </li>
 <li>
-<p>Pwn DB: <a rel="noopener noreferrer" href="https://www.dehashed.com/">https://www.dehashed.com/</a>?<strong>cf_chl_jschl_tk</strong>=ab484f797848c365ec48f7297ac4b9ba4587d775-1625827161-0-ARQgSNH3MSi0R4OUxmHmJCgUIz4nZrldFwXK6QZ21tONCEndyB_ypTCETLDm8vhRWeKD6v_ZraA5mbmvd03j1oeQb7QNsx5pg0lMhaNv2l7aw8DKR4a7ENkylr9knbiDx9X3RVn5AcH2uWuG_yRgk28j6x_zyccpXWc8LsTN9VxXZCZb16SEqwbuLdQ-JjWp0eQIgEMAPkLgosrsZyCdRa0A2mqMu8Mz4g-j4z8xR4v-4tqNwcP_TNtCK74-DIWZ80Zth2At6XizE72m_QifLrQH-gFUWPQ7hMzbNr5ONgZbyTZy_0YQA2SqHS5EUj5duq3WhbHdKEsRzXC6ch1EdQ5GagnSc8fH_NAqrI2aebrGF37HEXWkn7ZwxLGDLPAF63tV-77gQ4xhCnCDJp-vpcs</p>
+<p>Pwn DB: <a rel="noopener noreferrer" href="https://www.dehashed.com/?cf_chl_jschl_tk=ab484f797848c365ec48f7297ac4b9ba4587d775-1625827161-0-ARQgSNH3MSi0R4OUxmHmJCgUIz4nZrldFwXK6QZ21tONCEndyB_ypTCETLDm8vhRWeKD6v_ZraA5mbmvd03j1oeQb7QNsx5pg0lMhaNv2l7aw8DKR4a7ENkylr9knbiDx9X3RVn5AcH2uWuG_yRgk28j6x_zyccpXWc8LsTN9VxXZCZb16SEqwbuLdQ-JjWp0eQIgEMAPkLgosrsZyCdRa0A2mqMu8Mz4g-j4z8xR4v-4tqNwcP_TNtCK74-DIWZ80Zth2At6XizE72m_QifLrQH-gFUWPQ7hMzbNr5ONgZbyTZy_0YQA2SqHS5EUj5duq3WhbHdKEsRzXC6ch1EdQ5GagnSc8fH_NAqrI2aebrGF37HEXWkn7ZwxLGDLPAF63tV-77gQ4xhCnCDJp-vpcs">https://www.dehashed.com/</a></p>
 </li>
 <li>
 <p>Pwn email DB: <a rel="noopener noreferrer" href="https://intelx.io/">https://intelx.io/</a></p>
